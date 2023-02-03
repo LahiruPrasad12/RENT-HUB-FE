@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'http://localhost:3000'
+  baseUrl: 'https://main--sunny-frangollo-71ee68.netlify.app'
 };
 
 /*
