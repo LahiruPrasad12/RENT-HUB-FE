@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  baseUrl: 'https://rent-hub-api.vercel.app/',
+  baseUrl: 'https://rent-hub-api.vercel.app',
 };
 

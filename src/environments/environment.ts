@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'https://rent-hub-api.vercel.app/'
+  baseUrl: 'https://rent-hub-api.vercel.app'
 };
 
 /*
