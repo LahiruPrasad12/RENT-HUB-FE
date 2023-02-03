@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'https://main--sunny-frangollo-71ee68.netlify.app'
+  baseUrl: 'https://limitless-plateau-84750.herokuapp.com'
 };
 
 /*
